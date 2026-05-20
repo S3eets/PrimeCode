@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/.vs/MakeMathmaticlSequences
+/MakeMath.cd164a46/x64/Debug
+*.sln
+*.filters
+*.vcxproj
+*.user
